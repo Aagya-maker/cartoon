@@ -100,6 +100,7 @@ h2  {
 	display: inline-block;
 	margin-left: 15px;
 	border-radius: 5px;
+	margin-top: 5px;
 	
 	border: 10px solid darkorange;
 	text-decoration: none;
@@ -109,7 +110,7 @@ h2  {
 	font-weight: bolder;
 	cursor: pointer;
 	transition: background-color 0.3s ease;
-	margin-top: 30px;
+	margin-top: 15px;
 	margin-bottom: 30px;
 	background:linear-gradient(to right, orange, yellow, yellow, orange, orangered, yellow);
 	animation: glitter 3s infinite;
